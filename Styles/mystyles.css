@@ -241,8 +241,12 @@ hr{border:0;border-top:3px solid #a3949d;margin: 0;height: 5px;}
 	.w3-movepurple,.w3-hover-movepurple:hover{color:#fff!important;background-color:#6c0a31!important}
 	.w3-border-movepurple,.w3-hover-border-movepurple:hover{border-color:#6c0a31!important}
 
+	.w3-text-csicred,.w3-hover-text-csicred:hover{color:#800000!important}
+	.w3-csicred,.w3-hover-csicred:hover{color:#fff!important;background-color:#800000!important}
+	.w3-border-csicred,.w3-hover-border-csicred:hover{border-color:#800000!important}
+
 /* Links */
 
-	a{color:#6c0a31!important}
+	a{color:#800000!important}
 	
 	
